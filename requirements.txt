@@ -1,0 +1,10 @@
+accelerate
+transformers
+bitsandbytes
+datasets
+loguru
+fastapi
+uvicorn
+torch
+flask
+setuptools
